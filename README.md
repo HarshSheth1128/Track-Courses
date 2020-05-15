@@ -10,3 +10,5 @@ How to use:
 - Follow the instructions on screen and enjoy :)
 
 Note: the script will query as long as its running. If you turn off your computer you will need to restart it.
+
+You can move this to any cloud computing platform that will allow you to run it non stop.
